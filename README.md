@@ -1,3 +1,3 @@
-# hello-spring-state-machine
+# Private
 
-Try out project of spring-state-machine.
+Private space to try out different technologies.
